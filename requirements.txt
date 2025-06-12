@@ -5,3 +5,5 @@ matplotlib
 seaborn
 tqdm
 tensorflow
+pytorch
+torc
